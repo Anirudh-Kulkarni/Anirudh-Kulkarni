@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Anirudh-Kulkarni.  I am a Research Associate (Postdoc) in the lab of Dr. Tobias Reichenbach at the Department of Bioengineering at 
+- 👋 Hi, I’m @Anirudh-Kulkarni.  
+
+
+I was previously working in research. I worked as a Research Associate (Postdoc) in the lab of Dr. Tobias Reichenbach at the Department of Bioengineering at 
 Imperial College London. I develop algorithms to analyse neural data obtained through various experimental procedures and computational models 
 to help explain the underlying neural principles. I have a Ph.D in statistical physics and neuroscience and 4+ years experience obtaining and 
 analysing complex and multi-dimensional data using advanced statistics, network simulations and custom-built algorithms.
