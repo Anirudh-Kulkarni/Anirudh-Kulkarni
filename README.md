@@ -17,7 +17,7 @@ I am also learning more about Data science and Machine learning to keep up with 
 - 💞️ In my free time, I like to do some science dissemination and recently started a Science Blog on Medium https://medium.com/@vigyaan 
 exploring various new advances in science. 
 
-- 📫 Feel free to connect with me on Linkedin https://www.linkedin.com/in/anirkulk/ /send me any email at akulkar2 [at] ic[dot]ac[dot]uk for any discussion/collaborations.
+- 📫 Feel free to connect with me on Linkedin https://www.linkedin.com/in/anirkulk/ /send me any email at anirudh [dot] kulkarni08 [at] gmail[dot]com for any discussion/collaborations.
 
 <!---
 Anirudh-Kulkarni/Anirudh-Kulkarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
