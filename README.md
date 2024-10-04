@@ -1,18 +1,13 @@
 - 👋 Hi, I’m @Anirudh-Kulkarni.  
 
+- I currently write documentation for cloud-related products at MathWorks, including offerings related to Amazon Web Services, Microsoft Azure, and Docker. In this role, I translate complex technical concepts into clear, user-friendly content. I have also written a few workflows related to machine learning and deep learning in the cloud.
+  
+- 👀 I worked previously in research. I worked as a Research Associate (Postdoc) in the lab of Dr. Tobias Reichenbach at the Department of Bioengineering at Imperial College London. I develop algorithms to analyse neural data obtained through various experimental procedures and computational models 
+to help explain the underlying neural principles. I have also done many courses on Data science, Machine learning, and Deep Learning to keep up with the world of AI.
 
-- I worked previously in research. I worked as a Research Associate (Postdoc) in the lab of Dr. Tobias Reichenbach at the Department of Bioengineering at Imperial College London. I develop algorithms to analyse neural data obtained through various experimental procedures and computational models 
-to help explain the underlying neural principles. I have a Ph.D in statistical physics and neuroscience and 4+ years experience obtaining and 
-analysing complex and multi-dimensional data using advanced statistics, network simulations and custom-built algorithms.
-
-- 👀 I currently work in Auditory neuroscience and the computational modeling of multisensory speech processing in the Auditory cortex. I worked previously 
-with Dr. Romain Brette on understanding the action potential mechanism in Paramecium at the Institut de la Vision in Paris. Prior to that, I graduated with a PhD in 2017 from UPMC, Paris while working 
-at LPS, ENS, Paris where I researched on propagation of brain waves in the group of Dr. Vincent Hakim and on the Motion After Effect illusion and glial cells
-in zebrafish in the group of Dr. German Sumbre. I did my masters in Optics, Nanosciences and Condensed Matter Physics at Ecole Polytechnique 
-in Paris and my undergraduate major in Electrical Engineering and minor in Theoretical Physics from Indian Institute of Technology Madras in Chennai. 
+- 🎓 Prior to that, I worked with Dr. Romain Brette on understanding the action potential mechanism in Paramecium at the Institut de la Vision in Paris. Prior to that, I graduated with a Ph.D. in Statistical Physics (Computational Neuroscience) in 2017 from Université Pierre et Marie Curie, Paris while working at Laboratoire de Physique Statistique, Ecole Normale Supérieure, Paris where I researched on propagation of brain waves in the group of Dr. Vincent Hakim and on the Motion After Effect illusion and glial cells in zebrafish in the group of Dr. German Sumbre. I did my masters in Optics, Nanosciences and Condensed Matter Physics at Ecole Polytechnique  in Paris and my undergraduate major in Electrical Engineering and minor in Theoretical Physics from Indian Institute of Technology Madras in Chennai. 
 
 - 🌱 I enjoy teaching and have been a Teaching Assistant for the courses of Probability and Statistics, Computational Neuroscience and Reinforcement learning. 
-I am also learning more about Data science and Machine learning to keep up with the world of AI.
 
 - 💞️ In my free time, I like to do some science dissemination and recently started a Science Blog on Medium https://medium.com/@vigyaan 
 exploring various new advances in science. 
