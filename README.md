@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anirudh-Kulkarni.  
+- 👋 Hi, I’m @Anirudh-Kulkarni.  Check out my [portfolio website](https://anirudh-kulkarni.github.io) here.
 
 - I currently write documentation for cloud-related products at MathWorks, including offerings related to Amazon Web Services, Microsoft Azure, and Docker. In this role, I translate complex technical concepts into clear, user-friendly content. I have also written a few workflows related to machine learning and deep learning in the cloud.
   
@@ -9,7 +9,7 @@ to help explain the underlying neural principles. I have also done many courses 
 
 - 🌱 I enjoy teaching and have been a Teaching Assistant for the courses of Probability and Statistics, Computational Neuroscience and Reinforcement learning. 
 
-- 💞️ In my free time, I like to do some science dissemination and recently started a Science Blog on Medium https://medium.com/@vigyaan 
+- 💞️ In my free time, I like to do some science dissemination and recently started a [Science Blog on Medium](https://medium.com/@vigyaan) 
 exploring various new advances in science. 
 
 - 📫 Feel free to connect with me on Linkedin https://www.linkedin.com/in/anirkulk/ /send me any email at anirudh [dot] kulkarni08 [at] gmail[dot]com for any discussion/collaborations.
