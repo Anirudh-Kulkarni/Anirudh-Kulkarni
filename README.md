@@ -12,7 +12,7 @@ to help explain the underlying neural principles. I have also done many courses 
 - 💞️ In my free time, I like to do some science dissemination and recently started a [Science Blog on Medium](https://medium.com/@vigyaan) 
 exploring various new advances in science. 
 
-- 📫 Feel free to connect with me on Linkedin https://www.linkedin.com/in/anirkulk/ /send me any email at anirudh [dot] kulkarni08 [at] gmail[dot]com for any discussion/collaborations.
+- 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/anirkulk/) or send me any email at anirudh [dot] kulkarni08 [at] gmail[dot]com for any discussion/collaborations.
 
 <!---
 Anirudh-Kulkarni/Anirudh-Kulkarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
