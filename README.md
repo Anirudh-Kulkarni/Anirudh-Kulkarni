@@ -7,7 +7,7 @@ to help explain the underlying neural principles. I have also done many courses 
 
 - 🎓 Prior to that, I worked with Dr. Romain Brette on understanding the action potential mechanism in Paramecium at the Institut de la Vision in Paris. Prior to that, I graduated with a Ph.D. in Statistical Physics (Computational Neuroscience) in 2017 from Université Pierre et Marie Curie, Paris while working at Laboratoire de Physique Statistique, Ecole Normale Supérieure, Paris where I researched on propagation of brain waves in the group of Dr. Vincent Hakim and on the Motion After Effect illusion and glial cells in zebrafish in the group of Dr. German Sumbre. I did my masters in Optics, Nanosciences and Condensed Matter Physics at Ecole Polytechnique  in Paris and my undergraduate major in Electrical Engineering and minor in Theoretical Physics from Indian Institute of Technology Madras in Chennai. 
 
-- 🌱 I enjoy teaching and have been a Teaching Assistant for the courses of Probability and Statistics, Computational Neuroscience and Reinforcement learning. I am also a tutor in Further Maths for A-level students. 
+- 🌱 I enjoy teaching and had been a Teaching Assistant for the courses of Probability and Statistics, Computational Neuroscience and Reinforcement learning. I currently also work as a tutor in Further Maths for A-level students. 
 
 - 💞️ In my free time, I like to do some science dissemination and recently started a [Science Blog on Medium](https://medium.com/@vigyaan) 
 exploring various new advances in science. I also volunteer for the [Science Museum](https://www.sciencemuseum.org.uk). If you are in London, do come to one of my tours.
